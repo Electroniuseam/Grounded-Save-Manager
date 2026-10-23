@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Grounded-Save-Manager` · Updated: 2026-10-07
+`Grounded-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `grounded` `save-manager` `survival` `crafting` `xbox`
